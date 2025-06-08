@@ -11,7 +11,7 @@
 - 🔭 Looking for freelance opportunities
 - ⚛️ Comfortable in Java, Python, HTML, CSS, JavaScript.
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: sumoon.dev@gmail.com <br>
+- 📫 How to reach me: stu@sumoonbyanjankar.com.np <br>
 - ⚡ Fun fact: I love learning new stuff.
 - 👨‍💻 New project: [`Java Learning Journey`](https://github.com/PhantomBenz/Java-Learning-Journey)
 
