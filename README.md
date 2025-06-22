@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: stu@sumoonbyanjankar.com.np <br>
 - ⚡ Fun fact: I love learning new stuff.
-- 👨‍💻 New project: [`Java Learning Journey`](https://github.com/PhantomBenz/Java-Learning-Journey)
+- 👨‍💻 New project: Coming Soon
 
 	
 ### 🛠 Languages and Tools:
@@ -29,6 +29,13 @@
 <div>
 <img alt="Sumoon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PhantomBenz&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="100%" width="46%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBenz&theme=react&layout=compact&border_color=7cebf5&border_radius=10" height="100%" width="34%"/>
+</div>
+
+### Learning Stats
+<div>
+	<img src="https://roadmap.sh/card/tall/685786a8baf152745523d848?variant=dark" height="100%" width="34%" alt="https://roadmap.sh/u/phantombenz"/>	
  </div>
+ </div>
+</div>
  <br/>
  </br>
