@@ -34,8 +34,5 @@
 ### Learning Stats
 <div>
 	<img src="https://roadmap.sh/card/tall/685786a8baf152745523d848?variant=dark" height="100%" width="34%" alt="https://roadmap.sh/u/phantombenz"/>	
- </div>
- </div>
 </div>
- <br/>
- </br>
+
