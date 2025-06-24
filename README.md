@@ -37,6 +37,7 @@
 </div>
 [![roadmap.sh](https://roadmap.sh/card/wide/685786a8baf152745523d848?variant=dark&roadmaps=java%2Cfrontend)](https://roadmap.sh) -->
 <a>
-	<img src="https://roadmap.sh/card/wide/685786a8baf152745523d848?variant=dark&roadmaps=java%2Cfrontend" alt="roadmap.sh"/>
+	<img src="https://roadmap.sh/card/wide/685786a8baf152745523d848?variant=dark" alt="roadmap.sh"/>
 </a>
+
 
