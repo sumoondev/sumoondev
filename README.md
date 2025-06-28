@@ -32,13 +32,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBenz&theme=react&layout=compact&border_color=7cebf5&border_radius=10" height="100%" width="34%"/>
 </div>
 
-### 📊Learning Stats
+
 <!-- <div>  
  	<img src="https://roadmap.sh/card/tall/685786a8baf152745523d848?variant=dark" height="100%" width="34%" alt="https://roadmap.sh/u/phantombenz"/>	 
 </div>
 [![roadmap.sh](https://roadmap.sh/card/wide/685786a8baf152745523d848?variant=dark&roadmaps=java%2Cfrontend)](https://roadmap.sh) -->
-<a>
-	<img src="https://roadmap.sh/card/wide/685786a8baf152745523d848?variant=dark" alt="roadmap.sh" height="100%" width="46%"/>
-</a>
+
 
 
