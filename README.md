@@ -28,15 +28,6 @@
 
 ### 📈Github Stats
 <div>
-<img alt="Sumoon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PhantomBenz&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="165%" />
+<!--<img alt="Sumoon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=PhantomBenz&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10" height="165%" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBenz&theme=react&layout=compact&border_color=7cebf5&border_radius=10" /> <!-- height="100%" width="34%" -->
 </div>
-
-
-<!-- <div>  
- 	<img src="https://roadmap.sh/card/tall/685786a8baf152745523d848?variant=dark" height="100%" width="34%" alt="https://roadmap.sh/u/phantombenz"/>	 
-</div>
-[![roadmap.sh](https://roadmap.sh/card/wide/685786a8baf152745523d848?variant=dark&roadmaps=java%2Cfrontend)](https://roadmap.sh) -->
-
-
-
