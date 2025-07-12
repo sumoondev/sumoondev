@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: stu@sumoonbyanjankar.com.np <br>
 - ⚡ Fun fact: I love learning new stuff.
-- 👨‍💻 New project: Coming Soon
+- 👨‍💻 New project: [Address Book](https://github.com/PhantomBenz/Address-Book.git)
 
 	
 ### 🛠 Languages and Tools:
