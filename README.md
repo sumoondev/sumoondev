@@ -12,7 +12,15 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumoondev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumoonbenz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumoon-byanjankar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31244994) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SumoonDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stu@sumoonbyanjankar.com.np) 
+<p align="left">
+	<a href="https://x.com/sumoondev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="sumoondev" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/sumoon-byanjankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumoon-byanjankar" height="30" width="40" /></a>
+	<a href="https://stackoverflow.com/users/31244994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31244994" height="30" width="40" /></a>
+	<a href="https://kaggle.com/sumoonbyanjankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sumoonbyanjankar" height="30" width="40" /></a>
+	<a href="https://fb.com/sumoonbenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumoonbenz" height="30" width="40" /></a>
+	<a href="https://instagram.com/sumoonbenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumoonbenz" height="30" width="40" /></a>
+	<a href="mailto:stu@sumoonbyanjankar.com.np"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="sumoondev" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 <p align="left"> 
