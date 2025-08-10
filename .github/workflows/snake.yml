@@ -1,0 +1,20 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run the action daily at midnight
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Your GitHub username
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Optional, defaults to the action token
+          outputs: |
+            dark.svg?palette=github-dark&color_snake=blue
+            light.svg?color_snake=#7845ab
+            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
