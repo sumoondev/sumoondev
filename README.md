@@ -45,10 +45,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 <br>
-
+<!--
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+-->
 
 
 # 📊 GitHub Stats:
@@ -57,17 +58,18 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhantomBenz&theme=transparent&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomBenz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%" /> </br>
 </div>
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PhantomBenz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PhantomBenz&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+-->
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantombenz&label=Profile%20views&color=0e75b6&style=flat" alt="phantombenz" /> <br>
