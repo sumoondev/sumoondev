@@ -55,7 +55,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumoondev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" width="55%"/> <br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumoondev&theme=transparent&hide_border=true" width="50%" />
+	<img src="https://nirzak-streak-stats.vercel.app/?user=sumoondev&theme=transparent&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumoondev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%" /> </br>
 </div>
 <!--
