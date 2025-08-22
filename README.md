@@ -82,7 +82,7 @@
 <p><a href="https://ko-fi.com/sumoonbyanjankar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sumoonbyanjankar" /></a></p><br><br>
 
 ---
-<!-- Snake Animation -->
+<!-- Snake Animation 
 <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhantomBenz/PhantomBenz/output/github-contribution-grid-snake-dark.svg">
@@ -91,4 +91,4 @@
 	</picture>
 </div>  
 
-<!-- Created with GPRM -->
+Created with GPRM -->
