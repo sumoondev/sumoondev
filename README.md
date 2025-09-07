@@ -81,7 +81,6 @@
 ## 💰 Support
 <p><a href="https://ko-fi.com/sumoonbyanjankar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sumoonbyanjankar" /></a></p><br><br>
 
----
 <!-- Snake Animation 
 <div align="center">
 	<picture>
