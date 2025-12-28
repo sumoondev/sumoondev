@@ -58,8 +58,7 @@
 
 ![GitHub Stats – Terminal Style](https://raw.githubusercontent.com/sumoondev/github-stats-terminal-style/main/github_stats.svg)
 <div align="center">
-	<img src="https://nirzak-streak-stats.vercel.app/?user=sumoondev&theme=transparent&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumoondev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%" /> </br>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=sumoondev&theme=transparent&hide_border=true" width="50%" /></br>
 </div>
 <!--
 ## 🏆 GitHub Trophies
